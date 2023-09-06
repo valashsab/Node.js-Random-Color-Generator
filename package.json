@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "chalk": "^5.3.0",
-    "console-colors": "^1.0.1"
+    "console-colors": "^1.0.1",
+    "randomcolor": "^0.6.2"
   }
 }

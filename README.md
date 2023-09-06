@@ -19,7 +19,7 @@ It should work like this:
    ###############################
    ###############################
 3. user input node index.js <color> <luminosity>
-   node index.js red
+   node index.js red bright
    ###############################
    ###############################
    ###############################
